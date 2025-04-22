@@ -79,6 +79,6 @@ jobs:
                 '<!-- GH_PAGES_PREVIEW_BOT_COMMENT -->',
                 'A preview of the GitHub Pages site based on this PR is now available here:',
                 '',
-                `<a href="https://solana-labs.github.io/solana-web3.js-pr-preview/${prNumber}/" rel="noopener noreferrer" target="_blank">solana-labs.github.io/solana-web3.js-pr-preview/${prNumber}/</a>`,
+                `<a href="https://solana-foundation.github.io/solana-web3.js-pr-preview/${prNumber}/" rel="noopener noreferrer" target="_blank">solana-labs.github.io/solana-web3.js-pr-preview/${prNumber}/</a>`,
               ].join('\n'),
             });

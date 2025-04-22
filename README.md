@@ -40,7 +40,7 @@ $ npm install --save @solana/web3.js
 ## Documentation and examples
 
 - [The Solana Cookbook](https://solanacookbook.com/) has extensive task-based documentation using this library.
-- For more detail on individual functions, see the [latest API Documentation](https://solana-labs.github.io/solana-web3.js)
+- For more detail on individual functions, see the [latest API Documentation](https://solana-foundation.github.io/solana-web3.js)
 
 ## Getting help
 
